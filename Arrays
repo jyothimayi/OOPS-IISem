@@ -1,0 +1,49 @@
+ARRAYS
+
+Arrays Introduction
+
+•	A variable is used to store a single value at a time. For example o int a;
+
+o char c; o float f;
+
+are of different data types and each can store only a single value of the declared data type. These variables are called scalar variables. A scalar variable is a single variable that can store an atomic value.
+
+•	An array is a fundamental data structure that enables the storing and manipulation of potentially huge quantities of data.
+
+•	An array stores an ordered sequence of homogeneous values.
+
+•	An array is a collection of individual data elements that is ordered- can count the elements fixed in size.
+
+•	In C, each array has two fundamental properties the data type and size. The individual array elements are identified by an integer index. The array indexing starts from 0. The index is written inside square brackets.
+
+•	Some examples where arrays can be used are
+
+1.	List of temperatures recorded every hour in a day, or a month, or a year.
+
+2.	List of employees in an organization.
+
+3.	List of products and their cost sold by a store.
+
+4.	Test scores of a class of students
+
+One-Dimensional Array
+
+•	There are several forms of an array like one dimensional and multidimensional.
+
+
+
+
+
+ 
+Declaration of a One-dimensional Array:
+
+•	The array has to be declared in a program before it is used. When defining an array the following need to be specified.
+
+o  the type of data it can hold.
+
+o the number of values it can hold. o name of the array.
+
+Syntax:
+
+data_type array-name[size];
+
